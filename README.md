@@ -1,4 +1,6 @@
-# Network Quality Pipeline
+# MPROXY
+
+### Autonomous Network Quality Platform
 
 > A production-oriented backend platform for automated endpoint discovery, validation, quality assessment, pool management and continuous service delivery.
 
