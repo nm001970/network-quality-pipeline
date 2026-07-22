@@ -87,7 +87,7 @@ Every endpoint passes through a fully automated processing workflow before becom
 Only endpoints that successfully complete every validation stage are promoted into the production pool.
 
 <p align="center">
-    <img src="assets/system-Workflow.png"
+    <img src="assets/system-workflow.png"
          alt="System Workflow"
          width="100%">
 </p>
